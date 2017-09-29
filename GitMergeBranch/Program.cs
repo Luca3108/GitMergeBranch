@@ -12,6 +12,8 @@ namespace GitMergeBranch
         {
 
             //hallo branchA änderung
+
+            //nochmalige Änderungasdadadad
         }
     }
 }
