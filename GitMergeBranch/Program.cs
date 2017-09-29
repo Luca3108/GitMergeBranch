@@ -10,6 +10,8 @@ namespace GitMergeBranch
     {
         static void Main(string[] args)
         {
+
+            //hallo branchA änderung
         }
     }
 }
